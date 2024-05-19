@@ -1,0 +1,7 @@
+[package]
+name = "memory_addr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pod = { git = "https://github.com/asterinas/pod", rev = "d7dba56" }
